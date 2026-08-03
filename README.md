@@ -130,6 +130,8 @@ comparison table with conditional formatting highlighting the GNN's best-in-clas
   fingerprints alone
 - Explore alternative GNN architectures (GraphSAGE, R-GCN for multi-relational edges)
 - Address the weak regression signal with richer features or a reformulated target
+## Screenshot:
+https://github.com/Sowmiya-050602/drug-side-effect-prediction/blob/main/drug%20pred.png
 
 ## Author
 Sowmiya Ramaraj
